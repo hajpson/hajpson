@@ -1,7 +1,7 @@
 Howdy 😃 👋
 
 My name is Kacper. Once, I discovered .NET and ... well, fell in love with it.
-I'm the aspiring junior and still learning basics (but they to invest in Your employees future, not past so let's stick with that :relaxed:).
+I'm the aspiring junior and still learning basics (but they say to invest in Your employees future, not past so let's stick with that :relaxed:).
 
 Currently working as a Junior Software Developer and handling Xamarin app mainly.
 
