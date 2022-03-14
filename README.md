@@ -5,7 +5,7 @@ I'm the aspiring junior and still learning basics (but they say to invest in You
 
 Currently working as a Junior Software Developer and handling Xamarin app mainly.
 
-At the moment, I'm into ASP.NET direction (Blazor specifically).
+At the moment, I'm into ASP.NET direction (Blazor specifically) and Xamarin / .NET MAUI.
 
 What I use, know or simply learn in summary:
 
