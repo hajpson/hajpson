@@ -1,11 +1,9 @@
 Howdy 😃 👋
 
 My name is Kacper. Once, I discovered .NET and ... well, fell in love with it.
-I'm the aspiring junior and still learning basics (but they say to invest in Your employees future, not past so let's stick with that :relaxed:).
+I'm currently a Software Engineer in Xamarin handling app for big customer as one of the main developers.
 
-Currently working as a Junior Software Developer and handling Xamarin app mainly.
-
-At the moment, I'm into ASP.NET direction (Blazor specifically) and Xamarin / .NET MAUI.
+At the moment, I'm into Xamarin / .NET MAUI and Flutter on the side.
 
 What I use, know or simply learn in summary:
 
