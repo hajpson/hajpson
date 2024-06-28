@@ -1,9 +1,14 @@
-Howdy 😃 👋
+Howdy 👋
 
-My name is Kacper. Once, I discovered .NET and ... well, fell in love with it.
-I'm currently a Software Engineer in Xamarin handling app for big customer as one of the main developers.
+My name is Kacper. I'm a Developer / Software Engineer (or whatever You want to call it) focusing mostly on mobile apps. I basically love creating them, that's what drives me. I'm mostly passionate about React Native and currently working in big software house creating / maintaining IoT application in this technology.
 
-At the moment, I'm into Xamarin / .NET MAUI and Flutter on the side.
+Previously, I've worked as a Xamarin / MAUI developer but because of couple of reasons - I've switched to something more ... mature.
+
+For reference, I love one comment about these technologies I came across some time ago while scrolling through reddit:
+
+'If it works it works good. If it decides to not work you’re in for a massive amount of headache. And sadly, it decides to not work too often.' <a href="https://www.reddit.com/r/dotnet/comments/15a430v/what_are_your_thoughts_about_xamarinnet_maui/">link here</a>
+
+really true ...
 
 What I use, know or simply learn in summary:
 
